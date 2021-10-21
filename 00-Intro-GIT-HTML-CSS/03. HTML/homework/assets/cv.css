@@ -1,0 +1,19 @@
+body{
+    background-color: #dadada;
+}
+h1{
+    text-align: center;
+}
+#contenedor{
+    width: 50%;
+    margin: 0 auto;
+}
+#centrarDiv{
+    width: 500px;
+    background-color: cadetblue;
+    padding: 50px;
+    border-color: crimson;
+    border-style: dashed;
+    align-items: center;
+    justify-content: center;
+}
